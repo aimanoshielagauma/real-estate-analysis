@@ -19,27 +19,6 @@ This project applies data analysis techniques to uncover insights on revenue gen
 * **Matplotlib** – data visualization
 * **Jupyter Notebook**
 
-
-##  Project Structure
-
-
-real-estate-analytics-python/
-│
-├── data/
-│   └── real_estate_data.csv
-│
-├── notebooks/
-│   └── real_estate_analysis.ipynb
-│
-├── outputs/
-│   ├── occupancy_trend.png
-│   ├── revenue_trend.png
-│   └── cost_trend.png
-│
-├── requirements.txt
-└── README.md
-```
-
 ---
 
 ##  Analysis Breakdown
